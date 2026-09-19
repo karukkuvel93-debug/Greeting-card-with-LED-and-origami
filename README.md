@@ -28,7 +28,7 @@
 *  Check the final card for proper finishing.
 
 
-![][image1]  
+![greetingcard](greetingcard.jpeg)  
 **4.NOTES**
 
 * the measurements and fold accurate.  
