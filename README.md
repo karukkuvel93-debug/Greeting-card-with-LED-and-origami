@@ -38,9 +38,7 @@
 * The negative terminal was connected to the negative side.  
 * The correct polarity was checked to make sure the LED lights properly.  
 *  The connections were secured using cello tape.
-
-
-                     ![][image2]
+![LED-light-connection](LED-light-connection.jpeg)  
 
 # 
 
