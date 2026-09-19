@@ -6,7 +6,7 @@
 
 #   **2.REQUIRED MATERILAS**
 
-* A4 paper/ card paper  
+* A4 paper/ chart paper  
 * Colour paper  
 * Scale  
 * Scissors  
